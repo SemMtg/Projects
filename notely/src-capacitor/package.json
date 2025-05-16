@@ -1,0 +1,15 @@
+{
+  "name": "notesly",
+  "version": "0.0.1",
+  "description": "A Quasar Project",
+  "author": "SemMtg <549452@student.saxion.nl>",
+  "private": true,
+  "dependencies": {
+    "@aparajita/capacitor-biometric-auth": "^8.0.2",
+    "@capacitor-community/text-to-speech": "^5.1.0",
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
